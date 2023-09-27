@@ -1,0 +1,11 @@
+__pycache__
+image
+driver
+env
+
+*.json
+*.sqlite3
+*.log
+*.txt
+*.ini
+*.DS_Store
